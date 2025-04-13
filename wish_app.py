@@ -14,7 +14,7 @@ st.caption("developed by SOUMENDU DAS")
 name=st.text_input("enter name")
 if st.button("Press button"):
      st.balloons()
-     st.image("D:/download/pic.jpg")
+     st.image("pic.jpg")
      prompt=f""" Create a warm and heartfelt Bengali New Year (Pohela Boishakh) greeting message in Bengali. The message should be personalized using the name: {name}. Clearly mention that this wish is being sent by Soumendu at the end. The tone should be festive, joyful, and respectful. Write it in beautiful Bengali script.give only ans no need to start with Here's a warm and heartfelt Pohela Boishakh greeting for , in Bengali script, signed by Soumendu:
 
 """
